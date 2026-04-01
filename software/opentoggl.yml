@@ -1,0 +1,10 @@
+name: OpenToggl
+website_url: https://opentoggl.com
+source_code_url: https://github.com/CorrectRoadH/opentoggl
+description: Private-first, AI-friendly self-hosted alternative to Toggl Track, with API compatibility with Toggl Track v9 and Reports v3. Includes a mobile PWA.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+tags:
+  - Time Tracking
